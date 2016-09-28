@@ -1,0 +1,132 @@
+Subject: Notice of Claimed Infringement from 173.208.213.114 at 2016-08-16T22:58:05Z - Ref. 550090699
+Body:
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Dear WholeSale Internet,
+
+This message is sent on behalf of HOME BOX OFFICE, INC. ("HBO").
+
+We have information leading us to believe that the IP address 173.208.213.114 was used to download or share Game of Thrones without authorization (additional details are listed below).  HBO owns the copyright or exclusive rights to Game of Thrones, and the unauthorized download or distribution constitutes copyright infringement.  Downloading unauthorized or unknown content is also a security risk for computers, devices, and networks.
+
+As the owner of the IP address, HBO requests that WholeSale Internet immediately contact the subscriber who was assigned the IP address at the date and time below with the details of this notice, and take the proper steps to prevent further downloading or sharing of unauthorized content and additional infringement notices.
+
+We also encourage you to inform the subscriber that HBO programming can easily be watched and streamed on many devices legally by adding HBO to the subscribers television package.
+
+We have a good faith belief that use of the copyrighted material detailed below is not authorized by the copyright owner, its agent, or the law.  The information in this notice is accurate and we state, under penalty of perjury, that we are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.  This letter is not a complete statement of HBO's rights in connection with this matter, and nothing contained herein constitutes an express or implied wavier of any rights or remedies of HBO in connection with this matter, all of which are expressly reserved.
+
+We appreciate your assistance and thank you for your cooperation in this matter.  Your prompt response is requested.  Any further enquiries can be directed to p2p@copyright.ip-echelon.com.  Please include this message with your enquiry to ensure a quick response.
+
+Respectfully,
+
+Adrian Leatherland
+CEO
+IP-Echelon
+Email: p2p@copyright.ip-echelon.com
+Address: 6715 Hollywood Blvd, Los Angeles, 90028, United States
+
+- ------------- Infringement Details ----------------------------------
+Title:        Game of Thrones
+Timestamp:    2016-08-16T22:58:05Z
+IP Address:   173.208.213.114
+Port:         60926
+Type:         BitTorrent
+Torrent Hash: 833a9d3d57347e6ac98c8bc6c2a6122994f3754a
+Filename:     Game Of Thrones.S01.XviD.BDRip.Rus.Dub.-SBRO
+Filesize:     7965 MB
+- ---------------------------------------------------------------------
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Infringement xmlns="http://www.acns.net/ACNS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.acns.net/ACNS http://www.acns.net/v1.2/ACNS2v1_2.xsd">
+  <Case>
+    <ID>550090699</ID>
+    <Status>Open</Status>
+    <Severity>Normal</Severity>
+  </Case>
+  <Complainant>
+    <Entity>Home Box Office, Inc.</Entity>
+    <Contact>IP-Echelon - Compliance</Contact>
+    <Address>6715 Hollywood Blvd
+Los Angeles CA 90028
+United States of America</Address>
+    <Phone>+1 (310) 606 2747</Phone>
+    <Email>p2p@copyright.ip-echelon.com</Email>
+  </Complainant>
+  <Service_Provider>
+    <Entity>WholeSale Internet</Entity>
+    <Email>abuse@wholesaleinternet.net</Email>
+  </Service_Provider>
+  <Source>
+    <TimeStamp>2016-08-16T22:58:05Z</TimeStamp>
+    <IP_Address>173.208.213.114</IP_Address>
+    <Port>60926</Port>
+    <Type>BitTorrent</Type>
+    <SubType BaseType="P2P" Protocol="BITTORRENT"/>
+    <Number_Files>1</Number_Files>
+  </Source>
+  <Content>
+    <Item>
+      <TimeStamp>2016-08-16T22:58:05Z</TimeStamp>
+      <Title>Game of Thrones</Title>
+      <FileName>Game Of Thrones.S01.XviD.BDRip.Rus.Dub.-SBRO</FileName>
+      <FileSize>8351995904</FileSize>
+      <Hash Type="SHA1">833a9d3d57347e6ac98c8bc6c2a6122994f3754a</Hash>
+    </Item>
+  </Content>
+</Infringement>
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJXs5p9AAoJEN5LM3Etqs/WY5UIAJuDFldQc5JLtJEQ+lGP5wV8
+juDkdHIfMYGXzSo8qaS/2a7Tr/oydrfHKCstYkZwu2ruH/fk9qNZm88Qhiy/Hi7X
+2FIAxvEGVw0X09Atm2Jz6SBbIRya/rWJ6SeBpCEG0nI94tDUGiYTHIzlmmWsGjEZ
+wllIQFQh3bUS1T/9FLB6FJGSilpHIJBobjskoBN1thFaardVAtVDcW5OuIAeVeEo
+wsx+QR8/7+ni7FuvRgJzOlu47V37SRW2hmzm0hxGnYulgxsbcPNeKngZ59G57z0D
+F9xJ1OvCKScy0cAIUJwEG9MjMk+Oet3pi+wafsLjuPbrlbVjJhddr+CK9ILPXk4=
+=GPlI
+-----END PGP SIGNATURE-----
+<?xml version="1.0" encoding="UTF-8"?>
+<Infringement xmlns="http://www.acns.net/ACNS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.acns.net/ACNS http://www.acns.net/v1.2/ACNS2v1_2.xsd">
+  <Case>
+    <ID>550090699</ID>
+    <Status>Open</Status>
+    <Severity>Normal</Severity>
+  </Case>
+  <Complainant>
+    <Entity>Home Box Office, Inc.</Entity>
+    <Contact>IP-Echelon - Compliance</Contact>
+    <Address>6715 Hollywood Blvd
+Los Angeles CA 90028
+United States of America</Address>
+    <Phone>+1 (310) 606 2747</Phone>
+    <Email>p2p@copyright.ip-echelon.com</Email>
+  </Complainant>
+  <Service_Provider>
+    <Entity>WholeSale Internet</Entity>
+    <Email>abuse@wholesaleinternet.net</Email>
+  </Service_Provider>
+  <Source>
+    <TimeStamp>2016-08-16T22:58:05Z</TimeStamp>
+    <IP_Address>173.208.213.114</IP_Address>
+    <Port>60926</Port>
+    <Type>BitTorrent</Type>
+    <SubType BaseType="P2P" Protocol="BITTORRENT"/>
+    <Number_Files>1</Number_Files>
+  </Source>
+  <Content>
+    <Item>
+      <TimeStamp>2016-08-16T22:58:05Z</TimeStamp>
+      <Title>Game of Thrones</Title>
+      <FileName>Game Of Thrones.S01.XviD.BDRip.Rus.Dub.-SBRO</FileName>
+      <FileSize>8351995904</FileSize>
+      <Hash Type="SHA1">833a9d3d57347e6ac98c8bc6c2a6122994f3754a</Hash>
+    </Item>
+  </Content>
+</Infringement>
+
+
+
+
+
+

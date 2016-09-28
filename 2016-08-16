@@ -1,0 +1,132 @@
+Subject: Notice of Claimed Infringement from 173.208.213.114 at 2016-08-16T15:20:48Z - Ref. 549806825
+Body:
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Dear WholeSale Internet,
+
+This message is sent on behalf of HOME BOX OFFICE, INC. ("HBO").
+
+We have information leading us to believe that the IP address 173.208.213.114 was used to download or share Vinyl without authorization (additional details are listed below).  HBO owns the copyright or exclusive rights to Vinyl, and the unauthorized download or distribution constitutes copyright infringement.  Downloading unauthorized or unknown content is also a security risk for computers, devices, and networks.
+
+As the owner of the IP address, HBO requests that WholeSale Internet immediately contact the subscriber who was assigned the IP address at the date and time below with the details of this notice, and take the proper steps to prevent further downloading or sharing of unauthorized content and additional infringement notices.
+
+We also encourage you to inform the subscriber that HBO programming can easily be watched and streamed on many devices legally by adding HBO to the subscribers television package.
+
+We have a good faith belief that use of the copyrighted material detailed below is not authorized by the copyright owner, its agent, or the law.  The information in this notice is accurate and we state, under penalty of perjury, that we are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.  This letter is not a complete statement of HBO's rights in connection with this matter, and nothing contained herein constitutes an express or implied wavier of any rights or remedies of HBO in connection with this matter, all of which are expressly reserved.
+
+We appreciate your assistance and thank you for your cooperation in this matter.  Your prompt response is requested.  Any further enquiries can be directed to p2p@copyright.ip-echelon.com.  Please include this message with your enquiry to ensure a quick response.
+
+Respectfully,
+
+Adrian Leatherland
+CEO
+IP-Echelon
+Email: p2p@copyright.ip-echelon.com
+Address: 6715 Hollywood Blvd, Los Angeles, 90028, United States
+
+- ------------- Infringement Details ----------------------------------
+Title:        Vinyl
+Timestamp:    2016-08-16T15:20:48Z
+IP Address:   173.208.213.114
+Port:         58688
+Type:         BitTorrent
+Torrent Hash: 09c22e053bb783e2d85f1cc7c794ecc627ade8e6
+Filename:     Vinyl S01 COMPLETE Season 1 720p HDTV x264 [MKV,AC3,5.1] Ehhhh
+Filesize:     6024 MB
+- ---------------------------------------------------------------------
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Infringement xmlns="http://www.acns.net/ACNS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.acns.net/ACNS http://www.acns.net/v1.2/ACNS2v1_2.xsd">
+  <Case>
+    <ID>549806825</ID>
+    <Status>Open</Status>
+    <Severity>Normal</Severity>
+  </Case>
+  <Complainant>
+    <Entity>Home Box Office, Inc.</Entity>
+    <Contact>IP-Echelon - Compliance</Contact>
+    <Address>6715 Hollywood Blvd
+Los Angeles CA 90028
+United States of America</Address>
+    <Phone>+1 (310) 606 2747</Phone>
+    <Email>p2p@copyright.ip-echelon.com</Email>
+  </Complainant>
+  <Service_Provider>
+    <Entity>WholeSale Internet</Entity>
+    <Email>abuse@wholesaleinternet.net</Email>
+  </Service_Provider>
+  <Source>
+    <TimeStamp>2016-08-16T15:20:48Z</TimeStamp>
+    <IP_Address>173.208.213.114</IP_Address>
+    <Port>58688</Port>
+    <Type>BitTorrent</Type>
+    <SubType BaseType="P2P" Protocol="BITTORRENT"/>
+    <Number_Files>1</Number_Files>
+  </Source>
+  <Content>
+    <Item>
+      <TimeStamp>2016-08-16T15:20:48Z</TimeStamp>
+      <Title>Vinyl</Title>
+      <FileName>Vinyl S01 COMPLETE Season 1 720p HDTV x264 [MKV,AC3,5.1] Ehhhh</FileName>
+      <FileSize>6317451608</FileSize>
+      <Hash Type="SHA1">09c22e053bb783e2d85f1cc7c794ecc627ade8e6</Hash>
+    </Item>
+  </Content>
+</Infringement>
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJXsy9RAAoJEN5LM3Etqs/WGXIH/396dHBzRR8KfexWbUjd251a
+s3GMLFKzla6MNd/opgMMQoDNJ664mXC1tC+basU/mqxQwu62Sfc7vWQvKszp05pa
+N/5HU2PJdPqFkiZyWvK//SFj3nro3CnHi0wYX1G7AEkrQxmx4u63sxzNJ5b0Ya81
+9Ccx9VnolX5YVhey1KED401OBdYDj5edIGNfcCTAmDzRz8spaogOFVpjnQaFRK8i
+OAMyzu9tH1XvQT2yamAMxPf4bomTN8MVLMaUBpmXq7jyExXWThbCeIUnMUHFjPo0
+Co5RCSOZ+hY24emb/MorGp+t28eNTpFWA81dFk/4aIN+tMK9NVjf7vkp6SR7Fr8=
+=tYE0
+-----END PGP SIGNATURE-----
+<?xml version="1.0" encoding="UTF-8"?>
+<Infringement xmlns="http://www.acns.net/ACNS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.acns.net/ACNS http://www.acns.net/v1.2/ACNS2v1_2.xsd">
+  <Case>
+    <ID>549806825</ID>
+    <Status>Open</Status>
+    <Severity>Normal</Severity>
+  </Case>
+  <Complainant>
+    <Entity>Home Box Office, Inc.</Entity>
+    <Contact>IP-Echelon - Compliance</Contact>
+    <Address>6715 Hollywood Blvd
+Los Angeles CA 90028
+United States of America</Address>
+    <Phone>+1 (310) 606 2747</Phone>
+    <Email>p2p@copyright.ip-echelon.com</Email>
+  </Complainant>
+  <Service_Provider>
+    <Entity>WholeSale Internet</Entity>
+    <Email>abuse@wholesaleinternet.net</Email>
+  </Service_Provider>
+  <Source>
+    <TimeStamp>2016-08-16T15:20:48Z</TimeStamp>
+    <IP_Address>173.208.213.114</IP_Address>
+    <Port>58688</Port>
+    <Type>BitTorrent</Type>
+    <SubType BaseType="P2P" Protocol="BITTORRENT"/>
+    <Number_Files>1</Number_Files>
+  </Source>
+  <Content>
+    <Item>
+      <TimeStamp>2016-08-16T15:20:48Z</TimeStamp>
+      <Title>Vinyl</Title>
+      <FileName>Vinyl S01 COMPLETE Season 1 720p HDTV x264 [MKV,AC3,5.1] Ehhhh</FileName>
+      <FileSize>6317451608</FileSize>
+      <Hash Type="SHA1">09c22e053bb783e2d85f1cc7c794ecc627ade8e6</Hash>
+    </Item>
+  </Content>
+</Infringement>
+
+
+
+
+
+

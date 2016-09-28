@@ -1,0 +1,67 @@
+Subject: Network attack received from an IP ( 173.208.213.114 ) from your network / Ataque recibido desde una ip ( 173.208.213.114 ) de su red
+Body:
+Hi, We have detected a network attack from an IP ( 173.208.213.114 ) from your network, a computer connected to it is probably infected and being part of a botnet. Please check it and fix it up as soon as possible. Thank you.
+
+ / 
+
+Saludos, Hemos detectado un ataque desde una ip ( 173.208.213.114 ) de su red, probablemente el equipo este infectado y este dentro de una botnet. Porfavor revisenlo y solucionenlo en la mayor brevedad posible. Muchas gracias. 
+
+The IP 173.208.213.114 has just been banned by Fail2Ban after
+1 attempts against apache-critico.
+
+
+Domain: casapedro.com (5.145.168.219)
+
+
+Here are more information about 173.208.213.114:
+Lines containing IP:173.208.213.114 in /furanet/sites/*/web/htdocs/logs/access
+
+/furanet/sites/casapedro.com/web/htdocs/logs/access:173.208.213.114 - - [29/Feb/2016:15:53:22 +0100] "GET /wp-content/plugins/s3bubble-amazon-s3-html-5-video-with-adverts/assets/plugins/ultimate/content/downloader.php?name=wp-config.php&path=../../../../../../../wp-config.php HTTP/1.1" 404 13664 "-" "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0"
+
+Date: Mon Feb 29 15:53:26 CET 2016
+
+Unix timestamp: 1456757604.14
+
+
+Regards,
+
+Abuse Team
+Comvive Servidores SL
+abuse@comvive.com
+
+<html><head></head><body>Hi, We have detected a network attack from an IP ( 173.208.213.114 ) from your network, a computer connected to it is probably infected and being part of a botnet. Please check it and fix it up as soon as possible. Thank you.<br />
+<br />
+ / <br />
+<br />
+Saludos, Hemos detectado un ataque desde una ip ( 173.208.213.114 ) de su red, probablemente el equipo este infectado y este dentro de una botnet. Porfavor revisenlo y solucionenlo en la mayor brevedad posible. Muchas gracias. <br />
+<br />
+The IP 173.208.213.114 has just been banned by Fail2Ban after<br />
+1 attempts against apache-critico.<br />
+<br />
+<br />
+Domain: casapedro.com (5.145.168.219)<br />
+<br />
+<br />
+Here are more information about 173.208.213.114:<br />
+Lines containing IP:173.208.213.114 in /furanet/sites/*/web/htdocs/logs/access<br />
+<br />
+/furanet/sites/casapedro.com/web/htdocs/logs/access:173.208.213.114 - - [29/Feb/2016:15:53:22 +0100] "GET /wp-content/plugins/s3bubble-amazon-s3-html-5-video-with-adverts/assets/plugins/ultimate/content/downloader.php?name=wp-config.php&path=../../../../../../../wp-config.php HTTP/1.1" 404 13664 "-" "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0"<br />
+<br />
+Date: Mon Feb 29 15:53:26 CET 2016<br />
+<br />
+Unix timestamp: 1456757604.14<br />
+<br />
+<br />
+Regards,<br />
+<br />
+Abuse Team<br />
+Comvive Servidores SL<br />
+abuse@comvive.com</body></html>
+
+
+
+
+
+
+
+
