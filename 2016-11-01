@@ -1,0 +1,43 @@
+Subject: Automatic abuse report from s411b.panelboxmanager.com for IP address 173.208.213.114
+Body:
+Hi, 
+ 
+This is an automatically email abuse report about the IP address 173.208.213.114 generated at Tue Nov  1 00:41:58 EDT 2016 , please do not reply to it. 
+If you have any queries regarding this message, please contact us to abuse@funio.com.
+
+Our IP is [67].[205].[125].[X]
+
+The final octet of our server's IP address is masked in the above output because some automatic parsers become confused when multiple IP addresses are included. The value of that octet is 28.
+
+We detected a network attack from your network, a computer connected to it is probably infected and being part of a botnet. 
+
+Please check it and fix it up as soon as possible. 
+ 
+The following intrusion attempts were detected:
+
+/67.205.125.28:173.208.213.114 - - [23/Mar/2016:16:03:32 -0400] "-" 408 - "-" "-"
+/67.205.125.28:173.208.213.114 - - [25/Mar/2016:07:47:13 -0400] "-" 408 - "-" "-"
+/67.205.125.28:173.208.213.114 - - [26/Mar/2016:20:39:24 -0400] "-" 408 - "-" "-"
+
+The following e-mail address is listed as the official abuse contact for IP 173.208.213.114 :
+
+abuse@wholesaleinternet.net
+ 
+
+Thank you for your collaboration.
+
+Regards, 
+
+--
+
+Abuse Department
+Funio
+https://www.funio.com
+abuse@funio.com
+ 
+
+
+
+
+
+
