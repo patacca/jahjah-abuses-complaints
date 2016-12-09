@@ -1,0 +1,19 @@
+Subject: hacker detected: 173.208.213.114
+Body:
+Time zone EST (New York, USA)
+
+My server IP: 192.99.54.222
+
+
+
+Log:
+-------------
+Dec  7 16:26:06 vps77370 sshd[1533]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=173.208.213.114  user=root
+Dec  7 16:26:08 vps77370 sshd[1533]: Failed password for root from 173.208.213.114 port 21523 ssh2
+Dec  7 16:26:08 vps77370 sshd[1533]: Received disconnect from 173.208.213.114: 11:  [preauth]
+
+
+
+
+
+
