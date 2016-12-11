@@ -1,0 +1,73 @@
+Subject: Network attack received from an IP ( 173.208.213.114 ) from your network / Ataque recibido desde una ip ( 173.208.213.114 ) de su red
+Body:
+Hi, We have detected a network attack from an IP ( 173.208.213.114 ) from your network, a computer connected to it is probably infected and being part of a botnet. Please check it and fix it up as soon as possible. Thank you.
+
+ / 
+
+Saludos, Hemos detectado un ataque desde una ip ( 173.208.213.114 ) de su red, probablemente el equipo este infectado y este dentro de una botnet. Porfavor revisenlo y solucionenlo en la mayor brevedad posible. Muchas gracias. 
+
+The IP 173.208.213.114 has just been banned by Fail2Ban after
+1 attempts against apache-critico.
+
+
+Domain: mibrujula.com (93.93.70.40)
+
+
+Here are more information about 173.208.213.114:
+Lines containing IP:173.208.213.114 in /furanet/sites/*/web/htdocs/logs/access
+
+/furanet/sites/dulcesentimiento.com/web/htdocs/logs/access:173.208.213.114 - - [10/Dec/2016:21:53:57 +0100] "GET / HTTP/1.1" 301 - "-" "-" "Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1"
+/furanet/sites/dulcesentimiento.com/web/htdocs/logs/access:173.208.213.114 - - [10/Dec/2016:21:53:58 +0100] "GET / HTTP/1.1" 200 68327 "-" "-" "Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1"
+/furanet/sites/dulcesentimiento.com/web/htdocs/logs/access:173.208.213.114 - - [10/Dec/2016:21:54:01 +0100] "POST / HTTP/1.1" 302 - "-" "http://dulcesentimiento.com/" "Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1"
+/furanet/sites/dulcesentimiento.com/web/htdocs/logs/access:173.208.213.114 - - [10/Dec/2016:21:54:02 +0100] "GET /?subscribe=error HTTP/1.1" 301 - "-" "http://dulcesentimiento.com/" "Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1"
+/furanet/sites/dulcesentimiento.com/web/htdocs/logs/access:173.208.213.114 - - [10/Dec/2016:21:54:04 +0100] "GET /?subscribe=error HTTP/1.1" 200 68428 "-" "http://dulcesentimiento.com/" "Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1"
+/furanet/sites/mibrujula.com/web/htdocs/logs/access:173.208.213.114 - - [11/Dec/2016:02:28:15 +0100] "GET /wp-content/plugins/history-collection/download.php?var=../../../wp-config.php HTTP/1.1" 404 35543 "-" "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0"
+/furanet/sites/mibrujula.com/web/htdocs/logs/access:173.208.213.114 - - [11/Dec/2016:02:28:15 +0100] "GET /wp-content/plugins/history-collection/download.php?var=../../../wp-config.php HTTP/1.1" 404 35543 "-" "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0"
+/furanet/sites/mibrujula.com/web/htdocs/logs/access:173.208.213.114 - - [11/Dec/2016:02:28:17 +0100] "GET /wp-content/plugins/history-collection/download.php?var=../../../wp-config.php HTTP/1.1" 404 35543 "-" "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0"
+
+Date: Sun Dec 11 02:28:31 CET 2016
+
+Unix timestamp: 1481419697.85
+
+
+Regards,
+
+Abuse Team
+Comvive Servidores SL
+abuse@comvive.com
+
+<html><head></head><body>Hi, We have detected a network attack from an IP ( 173.208.213.114 ) from your network, a computer connected to it is probably infected and being part of a botnet. Please check it and fix it up as soon as possible. Thank you.<br />
+<br />
+ / <br />
+<br />
+Saludos, Hemos detectado un ataque desde una ip ( 173.208.213.114 ) de su red, probablemente el equipo este infectado y este dentro de una botnet. Porfavor revisenlo y solucionenlo en la mayor brevedad posible. Muchas gracias. <br />
+<br />
+The IP 173.208.213.114 has just been banned by Fail2Ban after<br />
+1 attempts against apache-critico.<br />
+<br />
+<br />
+Domain: mibrujula.com (93.93.70.40)<br />
+<br />
+<br />
+Here are more information about 173.208.213.114:<br />
+Lines containing IP:173.208.213.114 in /furanet/sites/*/web/htdocs/logs/access<br />
+<br />
+/furanet/sites/dulcesentimiento.com/web/htdocs/logs/access:173.208.213.114 - - [10/Dec/2016:21:53:57 +0100] "GET / HTTP/1.1" 301 - "-" "-" "Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1"<br />
+/furanet/sites/dulcesentimiento.com/web/htdocs/logs/access:173.208.213.114 - - [10/Dec/2016:21:53:58 +0100] "GET / HTTP/1.1" 200 68327 "-" "-" "Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1"<br />
+/furanet/sites/dulcesentimiento.com/web/htdocs/logs/access:173.208.213.114 - - [10/Dec/2016:21:54:01 +0100] "POST / HTTP/1.1" 302 - "-" "http://dulcesentimiento.com/" "Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1"<br />
+/furanet/sites/dulcesentimiento.com/web/htdocs/logs/access:173.208.213.114 - - [10/Dec/2016:21:54:02 +0100] "GET /?subscribe=error HTTP/1.1" 301 - "-" "http://dulcesentimiento.com/" "Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1"<br />
+/furanet/sites/dulcesentimiento.com/web/htdocs/logs/access:173.208.213.114 - - [10/Dec/2016:21:54:04 +0100] "GET /?subscribe=error HTTP/1.1" 200 68428 "-" "http://dulcesentimiento.com/" "Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1"<br />
+/furanet/sites/mibrujula.com/web/htdocs/logs/access:173.208.213.114 - - [11/Dec/2016:02:28:15 +0100] "GET /wp-content/plugins/history-collection/download.php?var=../../../wp-config.php HTTP/1.1" 404 35543 "-" "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0"<br />
+/furanet/sites/mibrujula.com/web/htdocs/logs/access:173.208.213.114 - - [11/Dec/2016:02:28:15 +0100] "GET /wp-content/plugins/history-collection/download.php?var=../../../wp-config.php HTTP/1.1" 404 35543 "-" "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0"<br />
+/furanet/sites/mibrujula.com/web/htdocs/logs/access:173.208.213.114 - - [11/Dec/2016:02:28:17 +0100] "GET /wp-content/plugins/history-collection/download.php?var=../../../wp-config.php HTTP/1.1" 404 35543 "-" "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0"<br />
+<br />
+Date: Sun Dec 11 02:28:31 CET 2016<br />
+<br />
+Unix timestamp: 1481419697.85<br />
+<br />
+<br />
+Regards,<br />
+<br />
+Abuse Team<br />
+Comvive Servidores SL<br />
+abuse@comvive.com</body></html>
