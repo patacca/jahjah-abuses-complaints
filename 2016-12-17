@@ -1,0 +1,32 @@
+Subject: IP address(es) were blacklisted from the PlayStation Network [201612165370]
+Body:
+To whom it may concern,=20
+
+Pursuant to Sony Interactive Entertainment LLC ("SIE") corporate policy, the below IP addresses were blacklisted from using our services because SIE detected activity that is abusive to our network services. In our determination, the abusive activity was not related to velocity or volume (many users behind the same IP address, i.e. NAT), but matched the specific patterns of known abuse of our publicly available services. This abuse may be the result of a computer on your network that has been compromised and is participating in a botnet abuse of our services.
+
+The following table of IP addresses, dates and times should help you correlate the origin of the abusive activity.  The time stamps are approximate from our logs.  The actual timing of the events depend on the signature matched.  It is very likely to have occurred both before, during and following the times listed.
+
+       Approximate Time Range (UTC),      IP Address, Reason
+2016-12-16 09:07 ~ 2016-12-16 09:37 (UTC), 173.208.213.114, Account Takeover Attempts
+
+It is most likely the attack traffic is directed at one of the following endpoints:
+
+account.sonyentertainmentnetwork.com
+auth.np.ac.playstation.net
+auth.api.sonyentertainmentnetwork.com
+auth.api.np.ac.playstation.net
+
+These endpoints on our network are resolved by Geo DNS, so the IP addresses they resolve to will depend on the originating IP address.
+
+The destination port will be TCP 443.
+
+Please take the necessary measures to correct the malicious activity from the above-listed IP addresses as soon as possible to avoid any further disruptions. If we were to remove any of these IP addresses from the blacklist and subsequent abusive activity is detected, the IP address will be promptly blacklisted again.=20
+
+
+We thank you for your prompt attention to this matter. If you require assistance or additional information please contact snei-noc-abuse@am.sony.com and include the IP address in question.
+
+Thank you
+
+
+
+
