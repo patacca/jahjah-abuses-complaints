@@ -1,0 +1,15 @@
+Subject: Hacker using 173.208.213.114
+Body:
+Hi,
+The IP 173.208.213.114 attacked a server under my control today
+I have banned 173.208.213.114 from my network, and I am notifying
+you because whois lists you as the responsible contact.
+
+Attack details:
+173.208.213.114 - - [02/Jan/2017:02:51:02 -0500] "POST /wp-content/plugins/acf-frontend-display/js/blueimp-jQuery-File-Upload-d45deb1/server/php/index.php HTTP/1.1" 301 185 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0"
+173.208.213.114 - - [02/Jan/2017:02:51:12 -0500] "GET /wp-content/plugins/acf-frontend-display/js/blueimp-jQuery-File-Upload-d45deb1/server/php/index.php HTTP/1.1" 404 142 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0"
+
+Regards,
+
+Pride Tech Design, Security Team
+
