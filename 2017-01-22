@@ -1,0 +1,36 @@
+Subject: abuse report about 173.208.213.114 - 2017-01-22T06:21:26+0000
+Body:
+The IP address 173.208.213.114 (US/United States/-) was found attacking mod_security on b186.hocnet.org 5 times in the last 3600 seconds.
+
+Attached is an X-ARF report (see http://www.x-arf.org/specification.html) and the original log report that triggered this block.
+
+Abuse Contact for 173.208.213.114: [abuse@wholesaleinternet.net]
+
+The Abuse Contact of this report was provided by the Abuse Contact DB by abusix.com. abusix.com does not maintain the content of the database. All information which we pass out, derives from the RIR databases and is processed for ease of use. If you want to change or report non working abuse contacts please contact the appropriate RIR. If you have any further question, contact abusix.com directly via email (info@abusix.com). Information about the Abuse Contact Database can be found here:
+
+https://abusix.com/global-reporting/abuse-contact-db
+
+abusix.com is neither responsible nor liable for the content or accuracy of this message.
+Reported-From: servidores@datasource.pt
+Report-ID: 1485066086@b186.hocnet.org
+Category: abuse
+Report-Type: login-attack
+Service: mod_security
+User-Agent: csf v9.29
+Date: 2017-01-22T06:21:26+0000
+Source: 173.208.213.114
+Source-Type: ipv4
+Attachment: text/plain
+Schema-URL: https://download.configserver.com/abuse_login-attack_0.2.json
+
+[Sun Jan 22 06:21:10.828322 2017] [:error] [pid 773583:tid 139800394835712] [client 173.208.213.114] ModSecurity: Access denied with redirection to https://www.projecthoneypot.org/ip_173.208.213.114 using status 302 (phase 1). Operator GT matched 20 at TX:1. [file "/usr/local/apache/conf/modsec2.user.conf"] [line "35"] [id "801"] [msg "COMODO WAF: HoneyPOT Project Match of Client IP"] [data "RBL lookup of wpkzioijpaym.114.213.208.173.dnsbl.httpbl.org succeeded at REMOTE_ADDR. Suspicious comment spammer IP: 1 days since last activity, threat score 48"] [hostname "casasabugueiro.com"] [uri "/"] [unique_id "WIRPVsMIOroAC83PJYEAAACH"]
+[Sun Jan 22 06:21:14.574228 2017] [:error] [pid 773583:tid 139800258467584] [client 173.208.213.114] ModSecurity: Access denied with redirection to https://www.projecthoneypot.org/ip_173.208.213.114 using status 302 (phase 1). Operator GT matched 20 at TX:1. [file "/usr/local/apache/conf/modsec2.user.conf"] [line "35"] [id "801"] [msg "COMODO WAF: HoneyPOT Project Match of Client IP"] [data "RBL lookup of wpkzioijpaym.114.213.208.173.dnsbl.httpbl.org succeeded at REMOTE_ADDR. Suspicious comment spammer IP: 1 days since last activity, threat score 48"] [hostname "casasabugueiro.com"] [uri "/"] [unique_id "WIRPWsMIOroAC83PJYcAAACU"]
+[Sun Jan 22 06:21:18.338237 2017] [:error] [pid 773583:tid 139800342386432] [client 173.208.213.114] ModSecurity: Access denied with redirection to https://www.projecthoneypot.org/ip_173.208.213.114 using status 302 (phase 1). Operator GT matched 20 at TX:1. [file "/usr/local/apache/conf/modsec2.user.conf"] [line "35"] [id "801"] [msg "COMODO WAF: HoneyPOT Project Match of Client IP"] [data "RBL lookup of wpkzioijpaym.114.213.208.173.dnsbl.httpbl.org succeeded at REMOTE_ADDR. Suspicious comment spammer IP: 1 days since last activity, threat score 48"] [hostname "casasabugueiro.com"] [uri "/index.php"] [unique_id "WIRPXsMIOroAC83PJYsAAACM"]
+[Sun Jan 22 06:21:21.864015 2017] [:error] [pid 773583:tid 139800268957440] [client 173.208.213.114] ModSecurity: Access denied with redirection to https://www.projecthoneypot.org/ip_173.208.213.114 using status 302 (phase 1). Operator GT matched 20 at TX:1. [file "/usr/local/apache/conf/modsec2.user.conf"] [line "35"] [id "801"] [msg "COMODO WAF: HoneyPOT Project Match of Client IP"] [data "RBL lookup of wpkzioijpaym.114.213.208.173.dnsbl.httpbl.org succeeded at REMOTE_ADDR. Suspicious comment spammer IP: 1 days since last activity, threat score 48"] [hostname "casasabugueiro.com"] [uri "/"] [unique_id "WIRPYcMIOroAC83PJZAAAACT"]
+[Sun Jan 22 06:21:25.369465 2017] [:error] [pid 773583:tid 139800300427008] [client 173.208.213.114] ModSecurity: Access denied with redirection to https://www.projecthoneypot.org/ip_173.208.213.114 using status 302 (phase 1). Operator GT matched 20 at TX:1. [file "/usr/local/apache/conf/modsec2.user.conf"] [line "35"] [id "801"] [msg "COMODO WAF: HoneyPOT Project Match of Client IP"] [data "RBL lookup of wpkzioijpaym.114.213.208.173.dnsbl.httpbl.org succeeded at REMOTE_ADDR. Suspicious comment spammer IP: 1 days since last activity, threat score 48"] [hostname "casasabugueiro.com"] [uri "/user/register"] [unique_id "WIRPZcMIOroAC83PJZEAAACQ"]
+
+
+
+
+
+

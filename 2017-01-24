@@ -1,0 +1,26 @@
+Subject: Abuse From: 173.208.213.114
+Body:
+To: abuse@wholesaleinternet.net
+ISP Name: WholeSale Internet, Inc.
+Country: US
+
+We have blocked someone from your IP space for abuse. Reason: Port Scanning. Log lines are below.  Time zone is UTC.
+
+2017-01-24T10:19:52+00:00 gumbo [1:1750004:12] Snort Alert [1:1750004:12] [Classification: An attempted login using a suspicious username was detected] [Priority: 2]: <igb1> {TCP} 173.208.213.114:36123 -> 149.165.56.104:22
+
+I am writing to inform you so that you can take whatever action is necessary to prevent this user from doing this again.
+
+Please note, replies to this address will not be monitored.  If you need more information, please email it-incident@iu.edu.
+
+Thank you,
+
+--
+University Information Security Office
+Indiana University
+https://protect.iu.edu/about/index.html
+
+
+
+
+
+

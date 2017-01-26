@@ -1,0 +1,15 @@
+Subject: Hacker using 173.208.213.114
+Body:
+Hi,
+The IP 173.208.213.114 attacked a server under my control today
+I have banned 173.208.213.114 from my network, and I am notifying
+you because whois lists you as the responsible contact.
+
+Attack details:
+173.208.213.114 - - [14/Jan/2017:00:26:03 -0500] "POST /wp-content/themes/elegance/lib/scripts/dl-skin.php HTTP/1.1" 301 184 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0"
+173.208.213.114 - - [14/Jan/2017:00:26:18 -0500] "GET /wp-content/themes/elegance/lib/scripts/dl-skin.php HTTP/1.1" 404 142 "-" "Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0"
+
+Regards,
+
+Pride Tech Design, Security Team
+
