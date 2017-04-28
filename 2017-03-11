@@ -1,0 +1,36 @@
+Subject: abuse report about 173.208.213.114 - 2017-03-11T10:40:36+0000
+Body:
+The IP address 173.208.213.114 (US/United States/-) was found attacking mod_security on cx5102.vpsdns.pt 5 times in the last 3600 seconds.
+
+Attached is an X-ARF report (see http://www.x-arf.org/specification.html) and the original log report that triggered this block.
+
+Abuse Contact for 173.208.213.114: [abuse@wholesaleinternet.net]
+
+The Abuse Contact of this report was provided by the Abuse Contact DB by abusix.com. abusix.com does not maintain the content of the database. All information which we pass out, derives from the RIR databases and is processed for ease of use. If you want to change or report non working abuse contacts please contact the appropriate RIR. If you have any further question, contact abusix.com directly via email (info@abusix.com). Information about the Abuse Contact Database can be found here:
+
+https://abusix.com/global-reporting/abuse-contact-db
+
+abusix.com is neither responsible nor liable for the content or accuracy of this message.
+Reported-From: servidores@datasource.pt
+Report-ID: 1489228836@cx5102.vpsdns.pt
+Category: abuse
+Report-Type: login-attack
+Service: mod_security
+User-Agent: csf v10.04
+Date: 2017-03-11T10:40:36+0000
+Source: 173.208.213.114
+Source-Type: ipv4
+Attachment: text/plain
+Schema-URL: https://download.configserver.com/abuse_login-attack_0.2.json
+
+[Sat Mar 11 10:40:16.858329 2017] [:error] [pid 135980:tid 140343819364096] [client 173.208.213.114] ModSecurity: Access denied with redirection to https://www.projecthoneypot.org/ip_173.208.213.114 using status 302 (phase 1). Operator GT matched 20 at TX:1. [file "/etc/apache2/conf.d/modsec/modsec2.user.conf"] [line "14"] [id "801"] [msg "COMODO WAF: HoneyPOT Project Match of Client IP"] [data "RBL lookup of wpkzioijpaym.114.213.208.173.dnsbl.httpbl.org succeeded at REMOTE_ADDR. Suspicious comment spammer IP: 1 days since last activity, threat score 48"] [hostname "briosa.net"] [uri "/xx.php"] [unique_id "WMPUEJwMlnZEBArlIsExWgAAAQY"]
+[Sat Mar 11 10:40:21.721493 2017] [:error] [pid 136032:tid 140343943964416] [client 173.208.213.114] ModSecurity: Access denied with redirection to https://www.projecthoneypot.org/ip_173.208.213.114 using status 302 (phase 1). Operator GT matched 20 at TX:1. [file "/etc/apache2/conf.d/modsec/modsec2.user.conf"] [line "14"] [id "801"] [msg "COMODO WAF: HoneyPOT Project Match of Client IP"] [data "RBL lookup of wpkzioijpaym.114.213.208.173.dnsbl.httpbl.org succeeded at REMOTE_ADDR. Suspicious comment spammer IP: 1 days since last activity, threat score 48"] [hostname "briosa.net"] [uri "/un.php"] [unique_id "WMPUFe7drJDTQ3WuRCmOXAAAAAA"]
+[Sat Mar 11 10:40:26.795235 2017] [:error] [pid 235151:tid 140343794185984] [client 173.208.213.114] ModSecurity: Access denied with redirection to https://www.projecthoneypot.org/ip_173.208.213.114 using status 302 (phase 1). Operator GT matched 20 at TX:1. [file "/etc/apache2/conf.d/modsec/modsec2.user.conf"] [line "14"] [id "801"] [msg "COMODO WAF: HoneyPOT Project Match of Client IP"] [data "RBL lookup of wpkzioijpaym.114.213.208.173.dnsbl.httpbl.org succeeded at REMOTE_ADDR. Suspicious comment spammer IP: 1 days since last activity, threat score 48"] [hostname "briosa.net"] [uri "/misc/img.php"] [unique_id "WMPUGu2aLWzEm1zUpi512AAAAUk"]
+[Sat Mar 11 10:40:30.678462 2017] [:error] [pid 136058:tid 140343743829760] [client 173.208.213.114] ModSecurity: Access denied with redirection to https://www.projecthoneypot.org/ip_173.208.213.114 using status 302 (phase 1). Operator GT matched 20 at TX:1. [file "/etc/apache2/conf.d/modsec/modsec2.user.conf"] [line "14"] [id "801"] [msg "COMODO WAF: HoneyPOT Project Match of Client IP"] [data "RBL lookup of wpkzioijpaym.114.213.208.173.dnsbl.httpbl.org succeeded at REMOTE_ADDR. Suspicious comment spammer IP: 1 days since last activity, threat score 48"] [hostname "briosa.net"] [uri "/contact.php"] [unique_id "WMPUHmtCrzjA6vZ3UrzH1QAAAE8"]
+[Sat Mar 11 10:40:36.107360 2017] [:error] [pid 135980:tid 140343918786304] [client 173.208.213.114] ModSecurity: Access denied with redirection to https://www.projecthoneypot.org/ip_173.208.213.114 using status 302 (phase 1). Operator GT matched 20 at TX:1. [file "/etc/apache2/conf.d/modsec/modsec2.user.conf"] [line "14"] [id "801"] [msg "COMODO WAF: HoneyPOT Project Match of Client IP"] [data "RBL lookup of wpkzioijpaym.114.213.208.173.dnsbl.httpbl.org succeeded at REMOTE_ADDR. Suspicious comment spammer IP: 1 days since last activity, threat score 48"] [hostname "briosa.net"] [uri "/contact.php.suspected"] [unique_id "WMPUJJwMlnZEBArlIsExYAAAAQM"]
+
+
+
+
+
+
