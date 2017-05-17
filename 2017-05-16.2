@@ -1,0 +1,32 @@
+Subject: Attempts to crack our server by 173.208.213.114
+Body:
+I am the sysadmin of Bobcat Open Systems
+<http://www.bobcatos.com>.
+
+Our intrusion detector has reported that a user on your network tried to
+crack our server.  The log exerpts follow.  Times are CDT (UTC-0500).
+
+
+On mail3.bobcatos.com (208.101.214.41):
+May 16 12:11:28 helen sshd[32022]: Invalid user admin from 173.208.213.114
+May 16 12:11:28 helen sshd[32022]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=173.208.213.114 
+May 16 12:11:30 helen sshd[32022]: Failed password for invalid user admin from 173.208.213.114 port 29164 ssh2
+May 16 12:11:30 helen sshd[32023]: Connection closed by 173.208.213.114
+
+So far as I know, he didn't get in.  We use fail2ban to limit
+intrusion attempts.
+
+Let me know if you need any more information.
+
+Cheers,
+-- 
+Bob McClure, Jr.             Bobcat Open Systems, Inc.
+bob@bobcatos.com             http://www.bobcatos.com
+Do not merely listen to the word, and so deceive yourselves. Do what
+it says.  James 1:22 (NIV)
+
+
+
+
+
+

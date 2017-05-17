@@ -1,0 +1,39 @@
+Subject: Abuse from 173.208.213.114
+Body:
+
+Hello,
+
+This is an automated message. The information provided below is to assist you in tracking down abusive behavior.
+The IP address 173.208.213.114 has been found to be abusive toward our servers and has been banned from our network.
+
+The following log entries are provided to assist you with tracking down any problems.
+
+May  1 12:19:56 gaff sshd[1031022]: Invalid user admin from 173.208.213.114
+May  1 12:19:56 gaff sshd[1031022]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=173.208.213.114 
+May  1 12:19:57 gaff sshd[1031024]: Invalid user admin from 173.208.213.114
+May  1 12:19:57 gaff sshd[1031024]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=173.208.213.114 
+May  1 12:19:59 gaff sshd[1031022]: Failed password for invalid user admin from 173.208.213.114 port 63923 ssh2
+
+May  1 12:19:55 deckard sshd[364650]: Invalid user admin from 173.208.213.114
+May  1 12:19:55 deckard sshd[364650]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=173.208.213.114 
+May  1 12:19:56 deckard sshd[364659]: Invalid user admin from 173.208.213.114
+May  1 12:19:56 deckard sshd[364659]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=173.208.213.114 
+May  1 12:19:57 deckard sshd[364650]: Failed password for invalid user admin from 173.208.213.114 port 3710 ssh2
+
+May  1 12:19:55 rachael sshd[205019]: Invalid user admin from 173.208.213.114
+May  1 12:19:55 rachael sshd[205019]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=173.208.213.114 
+May  1 12:19:58 rachael sshd[205019]: Failed password for invalid user admin from 173.208.213.114 port 27367 ssh2
+May  1 12:20:01 rachael sshd[205036]: Invalid user admin from 173.208.213.114
+May  1 12:20:01 rachael sshd[205036]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=173.208.213.114 
+
+
+
+
+If you require additional information, it can be requested from abuse@liquidweb.com
+
+
+
+
+
+
+
