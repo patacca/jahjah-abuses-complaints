@@ -1,0 +1,36 @@
+Subject: abuse report about 173.208.213.114 - 2017-06-08T22:03:45-0700
+Body:
+The IP address 173.208.213.114 (US/United States/-) was found attacking mod_security on cpanel7.ipxcore.com 5 times in the last 3600 seconds.
+
+Attached is an X-ARF report (see http://www.x-arf.org/specification.html) and the original log report that triggered this block.
+
+Abuse Contact for 173.208.213.114: [abuse@wholesaleinternet.net]
+
+The Abuse Contact of this report was provided by the Abuse Contact DB by abusix.com. abusix.com does not maintain the content of the database. All information which we pass out, derives from the RIR databases and is processed for ease of use. If you want to change or report non working abuse contacts please contact the appropriate RIR. If you have any further question, contact abusix.com directly via email (info@abusix.com). Information about the Abuse Contact Database can be found here:
+
+https://abusix.com/global-reporting/abuse-contact-db
+
+abusix.com is neither responsible nor liable for the content or accuracy of this message.
+Reported-From: csirt@ipxcore.com
+Report-ID: 1496984625@cpanel7.ipxcore.com
+Category: abuse
+Report-Type: login-attack
+Service: mod_security
+User-Agent: csf v10.11
+Date: 2017-06-08T22:03:45-0700
+Source: 173.208.213.114
+Source-Type: ipv4
+Attachment: text/plain
+Schema-URL: https://download.configserver.com/abuse_login-attack_0.2.json
+
+[Thu Jun 08 22:03:30.448318 2017] [:error] [pid 19605] [client 173.208.213.114] ModSecurity: Access denied with code 403 (phase 2). Operator GE matched 5 at TX:anomaly_score. [file "/etc/apache2/conf.d/modsec_vendor_configs/OWASP3/rules/REQUEST-949-BLOCKING-EVALUATION.conf"] [line "30"] [id "949110"] [msg "Inbound Anomaly Score Exceeded (Total Score: 5)"] [severity "CRITICAL"] [tag "application-multi"] [tag "language-multi"] [tag "platform-multi"] [tag "attack-generic"] [hostname "resourcepond.com"] [uri "/wp-config.php~"] [unique_id "WTosIv11Zmge4qjdQ7DcPQAAAHw"]
+[Thu Jun 08 22:03:32.054344 2017] [:error] [pid 19586] [client 173.208.213.114] ModSecurity: Access denied with code 403 (phase 2). Operator GE matched 5 at TX:anomaly_score. [file "/etc/apache2/conf.d/modsec_vendor_configs/OWASP3/rules/REQUEST-949-BLOCKING-EVALUATION.conf"] [line "30"] [id "949110"] [msg "Inbound Anomaly Score Exceeded (Total Score: 5)"] [severity "CRITICAL"] [tag "application-multi"] [tag "language-multi"] [tag "platform-multi"] [tag "attack-generic"] [hostname "www.resourcepond.com"] [uri "/wp-config.php~"] [unique_id "WTosJK623S4Or3pl3g3jwQAAAF8"]
+[Thu Jun 08 22:03:38.587885 2017] [:error] [pid 19880] [client 173.208.213.114] ModSecurity: Access denied with code 403 (phase 2). Operator GE matched 5 at TX:anomaly_score. [file "/etc/apache2/conf.d/modsec_vendor_configs/OWASP3/rules/REQUEST-949-BLOCKING-EVALUATION.conf"] [line "30"] [id "949110"] [msg "Inbound Anomaly Score Exceeded (Total Score: 10)"] [severity "CRITICAL"] [tag "application-multi"] [tag "language-multi"] [tag "platform-multi"] [tag "attack-generic"] [hostname "resourcepond.com"] [uri "/wp-config.bak"] [unique_id "WTosKrtph6TeacMd3lA-MAAAAHs"]
+[Thu Jun 08 22:03:40.151845 2017] [:error] [pid 18839] [client 173.208.213.114] ModSecurity: Access denied with code 403 (phase 2). Operator GE matched 5 at TX:anomaly_score. [file "/etc/apache2/conf.d/modsec_vendor_configs/OWASP3/rules/REQUEST-949-BLOCKING-EVALUATION.conf"] [line "30"] [id "949110"] [msg "Inbound Anomaly Score Exceeded (Total Score: 10)"] [severity "CRITICAL"] [tag "application-multi"] [tag "language-multi"] [tag "platform-multi"] [tag "attack-generic"] [hostname "www.resourcepond.com"] [uri "/wp-config.bak"] [unique_id "WTosLJwC7OgQ5aCpQ4N10QAAAI8"]
+[Thu Jun 08 22:03:43.953537 2017] [:error] [pid 18839] [client 173.208.213.114] ModSecurity: Access denied with code 403 (phase 2). Operator GE matched 5 at TX:anomaly_score. [file "/etc/apache2/conf.d/modsec_vendor_configs/OWASP3/rules/REQUEST-949-BLOCKING-EVALUATION.conf"] [line "30"] [id "949110"] [msg "Inbound Anomaly Score Exceeded (Total Score: 5)"] [severity "CRITICAL"] [tag "application-multi"] [tag "language-multi"] [tag "platform-multi"] [tag "attack-generic"] [hostname "resourcepond.com"] [uri "/wp-config.phpOLD"] [unique_id "WTosL5wC7OgQ5aCpQ4N10gAAAI8"]
+
+
+
+
+
+
