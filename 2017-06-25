@@ -1,0 +1,23 @@
+Subject: Abuse from 173.208.213.114
+Body:
+Dear Sir/Madam,
+
+We have detected abuse from the IP address 173.208.213.114, which according to a whois lookup is on your network. We would appreciate if you would investigate and take action as appropriate.
+
+Log lines are given below, but please ask if you require any further information.
+
+(If you are not the correct person to contact about this please accept our apologies - your e-mail address was extracted from the whois record by an automated process. This mail was generated and sent by Fail2Ban.
+
+Please contact admin@selea.se if you have more questions.)
+
+Note: Local timezone is +0200 (CEST)
+Jun 25 05:46:28 home sshd[9278]: Invalid user admin from 173.208.213.114
+Jun 25 05:46:28 home sshd[9278]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=173.208.213.114
+Jun 25 05:46:31 home sshd[9278]: Failed password for invalid user admin from 173.208.213.114 port 48389 ssh2
+Jun 25 05:46:31 home sshd[9278]: Connection closed by 173.208.213.114 [preauth]
+
+
+
+
+
+
